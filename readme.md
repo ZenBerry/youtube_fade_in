@@ -2,4 +2,4 @@ Run this in your Youtube console or in Tampermonkey to have a smooth fade-in sou
 
 Warning: it doesn't respect the original video volume for now haha, so it will be 100% at the end of the fade-in.
 
-It also might work with other similar platforms
+It also might work with other similar platforms.
